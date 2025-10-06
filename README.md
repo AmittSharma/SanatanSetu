@@ -1,6 +1,6 @@
-# 🕉️ SanatanSetu – The Bridge to Eternal Dharma
+# 🕉️ SanataniSetu – The Bridge to Eternal Dharma
 
-**SanatanSetu** is an open-source mobile app that connects devotees with their nearest Hindu temples,
+**SanataniSetu** is an open-source mobile app that connects devotees with their nearest Hindu temples,
 reminds them of daily aartis, and strengthens our dharmic community through technology.
 
 🙏 Built with **Spring Boot**, **Flutter**, and **PostgreSQL (PostGIS)**.
@@ -28,12 +28,12 @@ To help every Hindu reconnect with their local temple and the rhythm of Sanatan 
 3. Create a feature branch (`feature/temple-search`)  
 4. Submit a pull request 🙏  
 
-All contributors will be credited under **SanatanSetu Contributors of Dharma**.
+All contributors will be credited under **SanataniSetu Contributors of Dharma**.
 
 ---
 
 ## 📜 License
-Released under the **SanatanSetu Dharmic Open License**  
+Released under the **SanataniSetu Dharmic Open License**  
 Free for dharmic and non-commercial use only.
 
 जय श्री राम 🚩
