@@ -1,4 +1,4 @@
-# 🌿 SanatanSetu Branch Rules
+# 🌿 SanataniSetu Branch Rules
 
 | Branch | Purpose | How to Merge |
 |---------|----------|--------------|
